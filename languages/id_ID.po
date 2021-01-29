@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-04 19:02+0700\n"
+"PO-Revision-Date: 2020-12-04 19:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: inc/meta-box\n"
+
+#: archive-food_menu.php:6
+msgid "Archive Food Menu"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Komentar dinonaktifkan"
+
+#: footer-area.php:13
+msgid "Links"
+msgstr ""
+
+#: footer-area.php:25
+msgid "Info"
+msgstr "Info"
+
+#: footer-area.php:36
+msgid "Newslater"
+msgstr "Berlangganan"
+
+#: footer-area.php:43
+msgid "Submit"
+msgstr "Kirim"
+
+#: footer.php:7
+msgid "Sign In"
+msgstr "Login"
+
+#: footer.php:11 footer.php:16 page-kontak.php:21
+msgid "Name"
+msgstr "Nama"
+
+#: footer.php:12 page-kontak.php:22
+#, fuzzy
+#| msgid "Name"
+msgid "Your Name"
+msgstr "Nama"
+
+#: footer.php:17
+msgid "Password"
+msgstr ""
+
+#: footer.php:21 footer.php:58 page-kontak.php:44
+msgid "Send"
+msgstr "Kirim"
+
+#: footer.php:25
+msgid "register"
+msgstr ""
+
+#: footer.php:37
+msgid "Sign Up"
+msgstr ""
+
+#: footer.php:41
+msgid "Username"
+msgstr ""
+
+#: footer.php:42
+msgid "Your Username"
+msgstr "Username Anda"
+
+#: footer.php:45 page-kontak.php:25
+msgid "Email"
+msgstr ""
+
+#: footer.php:46 page-kontak.php:26
+msgid "Your Email"
+msgstr "Email Anda"
+
+#: footer.php:49
+msgid "Password1"
+msgstr ""
+
+#: footer.php:50
+msgid "Your Password1"
+msgstr "Password Anda 1"
+
+#: footer.php:53
+msgid "Password2"
+msgstr ""
+
+#: footer.php:54
+msgid "Your Password2"
+msgstr "Password Anda 2"
+
+#: front-page.php:128
+msgid "More..."
+msgstr "Lebih..."
+
+#: header.php:98 index.php:98
+msgid "Logout"
+msgstr "Keluar"
+
+#: header.php:100 index.php:100
+msgid "Login"
+msgstr "Masuk"
+
+#: home.php:7
+msgid "All Foods"
+msgstr "Semua Makanan"
+
+#: home.php:64
+msgid "Read More"
+msgstr "Baca Selanjutnya"
+
+#: inc/class_tesate_customize.php:163
+msgid "Footer Area"
+msgstr ""
+
+#: inc/class_tesate_post_type.php:40 inc/class_tesate_post_type.php:41
+msgid "Menu"
+msgstr ""
+
+#: inc/class_tesate_post_type.php:42 inc/class_tesate_post_type.php:43
+msgid "Tambah Menu"
+msgstr ""
+
+#: inc/class_tesate_post_type.php:44
+msgid "Edit Menu"
+msgstr ""
+
+#: inc/class_tesate_post_type.php:45
+msgid "Menu Baru"
+msgstr ""
+
+#: inc/class_tesate_post_type.php:46
+msgid "View Menu"
+msgstr "Lihat Menu"
+
+#: inc/class_tesate_post_type.php:47
+msgid "Search Menu"
+msgstr ""
+
+#: inc/class_tesate_post_type.php:79
+msgid "Testimony"
+msgstr "Kesaksian"
+
+#: inc/class_tesate_post_type.php:80
+msgid "All Testimonies"
+msgstr "Semua Kesaksian"
+
+#: inc/class_tesate_post_type.php:134
+msgid "Food Menu"
+msgstr "Menu Makanan"
+
+#: inc/class_tesate_post_type.php:191 inc/class_tesate_post_type.php:192
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/class_tesate_post_type.php:193 inc/class_tesate_post_type.php:196
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: inc/class_tesate_post_type.php:194
+msgid "Search Categories"
+msgstr "Cari Kategori"
+
+#: inc/class_tesate_post_type.php:195
+msgid "Popular Categories"
+msgstr "Kategori Populer"
+
+#: inc/class_tesate_post_type.php:197 inc/class_tesate_post_type.php:198
+msgid "Parent Category"
+msgstr "Induk Kategori"
+
+#: inc/class_tesate_post_type.php:199
+msgid "Edit Category"
+msgstr "Edit Kategori"
+
+#: inc/class_tesate_post_type.php:200
+msgid "Update Category"
+msgstr "Update Kategori"
+
+#: inc/class_tesate_post_type.php:201
+msgid "Add New Category"
+msgstr "Tambah Kategori Baru"
+
+#: inc/class_tesate_post_type.php:202
+msgid "New Category Name"
+msgstr "Nama Kategori Baru"
+
+#: inc/class_tesate_post_type.php:203
+msgid "Add or remove Categories"
+msgstr "Tambahkan atau buang Kategori"
+
+#: inc/class_tesate_post_type.php:204
+msgid "Choose from most used Categories"
+msgstr "Pilih dari Kategori yang paling banyak digunakan"
+
+#: inc/class_tesate_recent_posts.php:28
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/class_tesate_recent_posts.php:31
+msgid "Recent Posts Tesate"
+msgstr "Postingan Terbaru Tesate"
+
+#: inc/class_tesate_recent_posts.php:49 inc/class_tesate_widget.php:10
+msgid "Recent Posts"
+msgstr "Postingan Terbaru"
+
+#: inc/class_tesate_recent_posts.php:98 inc/class_tesate_widget.php:66
+msgid "(no title)"
+msgstr "(tidak ada judul)"
+
+#: inc/class_tesate_recent_posts.php:148
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/class_tesate_recent_posts.php:151
+msgid "Number of posts to show:"
+msgstr "Postingan Yang Ditampilkan"
+
+#: inc/class_tesate_recent_posts.php:155
+msgid "Display post date?"
+msgstr "Tampilkan Tanggal Postingan"
+
+#: inc/class_tesate_setup.php:37
+msgid "Featured Image"
+msgstr "Gambar Unggulan"
+
+#: inc/class_tesate_sidebar.php:20
+msgid "Top Sidebar"
+msgstr "Sidebar Atas"
+
+#: inc/class_tesate_sidebar.php:44
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/class_tesate_sidebar.php:57
+msgid "Contact Sidebar"
+msgstr "Sidebar Kontak"
+
+#: inc/class_tesate_sidebar.php:67
+msgid "Bottom Sidebar"
+msgstr "Sidebar Bawah"
+
+#: inc/class_tesate_sidebar.php:68
+msgid "Bisa Digunakan Untuk Pasang Iklan"
+msgstr ""
+
+#: inc/class_tesate_sidebar.php:78
+msgid "Footer 1"
+msgstr ""
+
+#: inc/class_tesate_sidebar.php:87
+msgid "Footer 2"
+msgstr ""
+
+#: inc/class_tesate_sidebar.php:96
+msgid "Footer 3"
+msgstr ""
+
+#: inc/class_tesate_sidebar.php:106
+msgid "Footer 4"
+msgstr ""
+
+#: inc/class_tesate_widget.php:106
+#, fuzzy
+msgid "Recent Food Menus"
+msgstr "Menu Terbaru"
+
+#: inc/class_tesate_widget.php:111 inc/class_tesate_widget.php:162
+msgid "Title"
+msgstr "Judul"
+
+#: inc/class_tesate_widget.php:124
+msgid "Recent Food Menu"
+msgstr "Menu Terbaru"
+
+#: inc/class_tesate_widget.php:157
+msgid "Food Kategori"
+msgstr "Kategori Makanan"
+
+#: inc/class_tesate_widget.php:175
+msgid "Kategori"
+msgstr ""
+
+#: inc/config-meta-boxes.php:33
+msgid "Informasi Harga"
+msgstr ""
+
+#: inc/config-meta-boxes.php:41
+msgid "Harga Yang Anda Berikan"
+msgstr ""
+
+#: inc/config-meta-boxes.php:49
+msgid "Chef Hebat Anda"
+msgstr ""
+
+#: inc/wp-bootstrap-4-comment-walker/class-wp-bootstrap-comment-walker.php:49
+msgid "Edit"
+msgstr ""
+
+#: inc/wp-bootstrap-4-comment-walker/class-wp-bootstrap-comment-walker.php:64
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/wp-bootstrap4.1-pagination/wp-bootstrap4.1-pagination.php:39
+msgid "«"
+msgstr "Kembali"
+
+#: inc/wp-bootstrap4.1-pagination/wp-bootstrap4.1-pagination.php:40
+msgid "»"
+msgstr "Lanjut"
+
+#: page-kontak.php:7
+msgid "Contact"
+msgstr "Kontak"
+
+#: page-kontak.php:29
+msgid "Phone"
+msgstr "Tlp"
+
+#: page-kontak.php:30
+msgid "Your Phone"
+msgstr "No Tlp Anda"
+
+#: page-kontak.php:33
+msgid "Website"
+msgstr "Website"
+
+#: page-kontak.php:34
+msgid "Your Website"
+msgstr "Website Anda"
+
+#: page-kontak.php:37
+msgid "Message"
+msgstr "Pesan"
+
+#: page-kontak.php:38
+msgid "Your Message"
+msgstr "Pesan Anda"
+
+#: page-tentang.php:7
+msgid "About"
+msgstr "Tentang"
+
+#~ msgid "Theme without %s"
+#~ msgstr "Theme tanpa %s"
+
+#~ msgid "Please include a %s template in your theme."
+#~ msgstr "Harap sertakan template %s dalam theme Anda."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Posting ini dilindungi kata sandi. Masukkan kata sandi untuk melihat "
+#~ "komentar."
+
+#~ msgid "One response to %s"
+#~ msgstr "Salah satu tanggapan terhadap %s"
+
+#, fuzzy
+#~| msgid "One response to %s"
+#~ msgid "%1$s response to %2$s"
+#~ msgstr "Salah satu tanggapan terhadap %s"
+
+#~ msgid "Remember Me"
+#~ msgstr "Ingat Saya"

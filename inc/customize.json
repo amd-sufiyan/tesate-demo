@@ -1,0 +1,44 @@
+[
+
+	{"panel": "tesate", "section": "base", "control": "color_primary", "type": "color", "default": "#d3d3d3", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "base", "control": "color_secondary", "type": "color", "default": "#eeeeee", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "base", "control": "header_background_color", "type": "color", "default": "#00008b", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "base", "control": "header_color", "type": "color", "default": "#d3d3d3", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "base", "control": "overlay_background", "type": "color", "default": "#d3d3d3", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "base", "control": "footer_background_color", "type": "color", "default": "#00008b", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "base", "control": "footer_color", "type": "color", "default": "#d3d3d3", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "base", "control": "hero_image", "type": "image", "default": "%1$s/assets/img/sate-banner.jpg", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "heading", "control": "testimony_heading", "type": "text", "default": "Testimony", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "welcome", "control": "welcome_image", "type": "image", "default": "%1$s/assets/img/sate-banner.jpg", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "welcome", "control": "welcome_title", "type": "text", "default": "Tesate Restauraunt", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "welcome", "control": "welcome_text", "type": "textarea", "default": "Selamat datang di Tesate Restaurant, Tempat yang asyik buat makan bersama orang yang anda cintai", "transport": "postMessage","label": "","desc": "", "sel_refresh": true, "selector": ""},
+		
+		
+	{"panel": "tesate", "section": "services", "control": "service_icon_1", "type": "text", "default": "<i class='fa fa-truck'></i>", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "services", "control": "service_title_1", "type": "text", "default": "Pesan Antar", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "services", "control": "service_text_1", "type": "textarea", "default": "__", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "services", "control": "service_icon_2", "type": "text", "default": "<i class='fa fa-clock-o'></i>", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "services", "control": "service_title_2", "type": "text", "default": "Buka 24 Jam", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "services", "control": "service_text_2", "type": "textarea", "default": "__", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "services", "control": "service_icon_3", "type": "text", "default": "<i class='fa fa-wifi'></i>", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "services", "control": "service_title_3", "type": "text", "default": "Wifi Gratis", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "services", "control": "service_text_3", "type": "textarea", "default": "__", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+
+	{"panel": "tesate", "section": "special_menu", "control": "special_menu_image", "type": "image", "default": "%1$s/assets/img/special_menu_banner.jpg", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "special_menu", "control": "special_menu_title", "type": "text", "default": "Sate Tahu", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "special_menu", "control": "special_menu_text", "type": "textarea", "default": "Sate nikmat yang tanpa melukai binatang", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+
+	{"panel": "tesate", "section": "social_share", "control": "share_facebook", "type": "text", "default": "https://www.facebook.com", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "social_share", "control": "share_twitter", "type": "text", "default": "https://www.twitter.com", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "social_share", "control": "share_instagram", "type": "text", "default": "https://www.instagram.com", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""}
+
+]

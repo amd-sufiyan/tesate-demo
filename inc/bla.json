@@ -1,0 +1,16 @@
+[
+
+	// {"panel": "tesate", "section": "base", "control": "color_primary", "type": "color", "default": "#d3d3d3", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "base", "control": "color_secondary", "type": "color", "default": "#eeeeee", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+
+	{"panel": "tesate", "section": "base", "control": "header_background_color", "type": "color", "default": "#00008b", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+	{"panel": "tesate", "section": "base", "control": "header_color", "type": "color", "default": "#d3d3d3", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""}
+]
+
+
+
+// {"panel": "tesate", "section": "footer", "control": "footer_about_text", "type": "textarea", "default": "", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+// {"panel": "tesate", "section": "footer", "control": "footer_address", "type": "textarea", "default": "Jln. Mangga 123\nMadiun", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+// {"panel": "tesate", "section": "footer", "control": "footer_email", "type": "text", "default": "tesate@bla.com", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+// {"panel": "tesate", "section": "footer", "control": "footer_tlp", "type": "text", "default": "12345678", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""},
+// {"panel": "tesate", "section": "footer", "control": "footer_wa", "type": "text", "default": "12345678", "transport": "postMessage","label": "","desc": "", "sel_refresh": false, "selector": ""}
